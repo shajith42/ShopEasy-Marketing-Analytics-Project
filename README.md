@@ -1,4 +1,4 @@
-#Marketing Analytics Project-ShopEasy
+# Marketing Analytics Project-ShopEasy
 
 Welcome to the **ShopEasy Portfolio Project**, a data-driven exploration designed to enhance marketing decisions and customer experience using **SQL**, **Python**, and **Power BI**.
 
